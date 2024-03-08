@@ -1,4 +1,5 @@
 -  We're @theweekendcoders
+-  Motto - "Your growth through our service matters the most."
 -  Dedicated to revolutionizing the way businesses operate
    by offering cutting-edge Software as a Service (SaaS) solutions.
 -  As a premier freelancing company, we specialize in providing tailored,
